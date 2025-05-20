@@ -133,3 +133,21 @@ Consumidores que buscam serviços locais com rapidez e empresas que desejam pres
 - Edição de dados pessoais ou informações da empresa.
 - Botão para sair do app.
 
+## 🔧 Problema 5: Diário de Desenvolvimento
+
+**Equipe: Ronald, João e Samuel**  
+**Distribuição: Equilibrada, considerando disponibilidade de acesso aos recursos.**
+
+### 📅 Tarefas e Responsáveis
+
+- **Tarefa 1:** Criar estrutura inicial do projeto e instalar dependências (React Native, Firebase, etc) – **Ronald** – 14/05 ✅ (Concluída)
+- **Tarefa 2:** Implementar autenticação com Firebase (e-mail, telefone, Google) – **João** – 14/05 🔄 (Em andamento)
+- **Tarefa 3:** Criar tela de login e cadastro com seleção de perfil (usuário ou empresa) – **Samuel** – 21/05 ⏳ (Planejada)
+- **Tarefa 4:** Desenvolver tela principal (Home) com sugestões baseadas na localização – **Ronald** – 21/05 ⏳ (Planejada)
+- **Tarefa 5:** Implementar sistema de busca com filtros e sugestões – **João** – 28/05 ⏳ (Planejada)
+- **Tarefa 6:** Desenvolver tela de perfil do estabelecimento – **Samuel** – 28/05 ⏳ (Planejada)
+- **Tarefa 7:** Criar funcionalidades de favoritos e histórico de acessos – **Ronald** – 04/06 ⏳ (Planejada)
+- **Tarefa 8:** Integrar Google Maps para localização e rotas – **João** – 04/06 ⏳ (Planejada)
+- **Tarefa 9:** Criar sistema de avaliações e comentários – **Samuel** – 11/06 ⏳ (Planejada)
+- **Tarefa 10:** Implementar notificações push (Firebase) – **Ronald** – 11/06 ⏳ (Planejada)
+- **Tarefa 11:** Ajustar layout responsivo, modo escuro e testes finais – **Equipe** – 18/06 ⏳ (Planejada)
