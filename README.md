@@ -10,7 +10,7 @@ Cadê? é um aplicativo mobile que conecta usuários a empresas e prestadores de
 - **Backend Mobile (API REST):** Node.js 20 + Express.js  
 - **Banco de Dados (acessado via API):** PostgreSQL 15  
 - **Autenticação e Notificações Push:** Firebase 11.28  
-- **Geolocalização e Rotas:** Google Maps API  
+- **Geolocalização e Rotas:** Leaflet  
 - **Navegação entre Telas:** React Navigation 6.1  
 - **Gerenciamento de Estado:** Redux Toolkit  
 - **Estilização:** Tailwind CSS (via NativeWind)  
