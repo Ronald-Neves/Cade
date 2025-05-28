@@ -71,12 +71,11 @@ Consumidores que buscam serviços locais com rapidez e empresas que desejam pres
 ### 🔑 Funcionalidades Principais do Aplicativo
 
 **Autenticação e Cadastro**
-- Login via e-mail, Google ou telefone.
-- Cadastro como usuário comum ou empresa.
+- Login via usuário e senha.
+- Cadastro como usuário, email, senha e confirmar senha.
 
 **Busca Inteligente**
 - Campo de busca com sugestões automáticas.
-- Filtros por categoria, nota, distância, horário e preço.
 
 **Catálogo de Estabelecimentos**
 - Visualização do perfil completo do local:
@@ -84,19 +83,9 @@ Consumidores que buscam serviços locais com rapidez e empresas que desejam pres
 
 **Contato Direto**
 - Botão para mensagem via app.
-- Botão de ligação telefônica nativa.
 
 **Avaliações**
 - Sistema de notas e comentários por usuários autenticados.
-
-**Histórico e Favoritos**
-- Lista de locais já visitados e favoritos salvos.
-
-**Notificações Push**
-- Alertas sobre mensagens e promoções (com permissão do usuário).
-
-**Modo Escuro**
-- Tema adaptável para conforto visual em ambientes com pouca luz.
 
 ---
 
@@ -105,29 +94,25 @@ Consumidores que buscam serviços locais com rapidez e empresas que desejam pres
 ### 📲 Telas do Aplicativo
 
 **Tela de Boas-Vindas / Login**
-- Login por e-mail, Google ou número de telefone.
+- Login por usuário e senha.
 - Link para cadastro.
 
 **Tela de Cadastro**
-- Escolha de tipo de perfil: usuário ou empresa.
-- Campos: nome, e-mail, senha, localização.
+- Escolha nome de usuário, email e a senha de acesso.
+- Campos: nome, e-mail, senha e confirmar senha.
 
 **Tela Principal (Home)**
 - Sugestões com base na geolocalização.
-- Categorias em destaque (Restaurantes, Farmácias, Mecânicos etc).
-- Menu inferior: Home | Buscar | Favoritos | Perfil.
+- Categorias em destaque 
+- Menu inferior: Home | Buscar | Serviços | Perfil.
 
 **Tela de Busca**
 - Campo de pesquisa com sugestões.
-- Filtros: categoria, nota, distância, preço.
 
 **Tela de Estabelecimento**
-- Nome, descrição, fotos, horário, mapa com rota.
-- Botões: mensagem e ligação.
+- Nome, descrição e fotos.
+- Botões: mensagens
 - Avaliações de outros usuários.
-
-**Tela de Favoritos e Histórico**
-- Lista de locais favoritados e recentemente acessados.
 
 **Tela de Perfil**
 - Edição de dados pessoais ou informações da empresa.
@@ -142,9 +127,9 @@ Consumidores que buscam serviços locais com rapidez e empresas que desejam pres
 
 - **Tarefa 1:** Criar estrutura inicial do projeto e instalar dependências (React Native, Firebase, etc) – **Ronald** – 14/05 ✅ (Concluída)
 - **Tarefa 2:** Implementar autenticação com Firebase (e-mail, telefone, Google) – **João** – 14/05 🔄 (Em andamento)
-- **Tarefa 3:** Criar tela de login e cadastro com seleção de perfil (usuário ou empresa) – **Samuel** – 21/05 ⏳ (Em andamento)
-- **Tarefa 4:** Desenvolver tela principal (Home) com sugestões baseadas na localização – **Ronald** – 21/05 ⏳ (Em andamento)
-- **Tarefa 5:** Implementar sistema de busca com filtros e sugestões – **João** – 28/05 ⏳ (Planejada)
+- **Tarefa 3:** Criar tela de login e cadastro com seleção de perfil (usuário ou empresa) – **Samuel** – 21/05 ⏳ (Concluída)
+- **Tarefa 4:** Desenvolver tela principal (Home) com sugestões – **Ronald** – 21/05 ⏳ (Concluída)
+- **Tarefa 5:** Implementar sistema de busca e sugestões – **João** – 28/05 ⏳ (Concluída)
 - **Tarefa 6:** Desenvolver tela de perfil do estabelecimento – **Samuel** – 28/05 ⏳ (Planejada)
 - **Tarefa 7:** Criar funcionalidades de favoritos e histórico de acessos – **Ronald** – 04/06 ⏳ (Planejada)
 - **Tarefa 8:** Integrar Google Maps para localização e rotas – **João** – 04/06 ⏳ (Planejada)
