@@ -131,6 +131,5 @@ Consumidores que buscam serviços locais com rapidez e empresas que desejam pres
 - **Tarefa 4:** Desenvolver tela principal (Home) com sugestões – **Ronald** – 21/05 ✅ (Concluída)
 - **Tarefa 5:** Implementar sistema de busca e sugestões – **João** – 28/05 ✅ (Concluída)
 - **Tarefa 6:** Desenvolver tela de perfil do estabelecimento – **Samuel** – 28/05 ⏳ (Planejada)
-- **Tarefa 7:** Integrar Google Maps para localização e rotas – **João** – 04/06 ⏳ (Planejada)
-- **Tarefa 8:** Criar sistema de avaliações e comentários – **Samuel** – 11/06 ⏳ (Planejada)
-- **Tarefa 9:** Ajustar layout responsivo e testes finais – **Equipe** – 18/06 ⏳ (Planejada)
+- **Tarefa 7:** Criar sistema de avaliações e comentários – **Samuel** – 11/06 ⏳ (Planejada)
+- **Tarefa 8:** Ajustar layout responsivo e testes finais – **Equipe** – 18/06 ⏳ (Planejada)
